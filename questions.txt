@@ -1,0 +1,4 @@
+normalization.standarzation when should I use?
+I cannot understand l1 and l2
+
+what is a PCA?
